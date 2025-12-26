@@ -1,0 +1,3 @@
+<template>
+  <SomeComponent />
+</template>
